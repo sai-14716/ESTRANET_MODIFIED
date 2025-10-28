@@ -1,3 +1,5 @@
+# Note : This is the copy of the original github page using for my project work 
+Original : https://github.com/suvadeep-iitb/EstraNet.git
 # EstraNet: An Efficient Shift-Invariant Transformer Network for Side Channel Analysis
 
 This repository contains the implementation of **EstraNet**, an efficient shift-invariant transformer network for Side-Channel Analysis.  
